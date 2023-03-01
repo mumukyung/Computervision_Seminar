@@ -23,7 +23,13 @@
 #### 마지막으로 plt.imshow를 사용하여 수정된 이미지를 plt.subplots을 사용하여 생성된 새 그림의 ax1개체와 함께 표시
 
 ## week4 과제
-
+[week4 해설](https://github.com/mumukyung/Computervision_Seminar/blob/main/week4_%EA%B3%BC%EC%A0%9C%ED%92%80%EC%9D%B4.ipynb)
+#### 과제는 아래와 같이 원래 0~255 픽셀 값을 가진 귀여운 돌고래 이미지는 Augmentation이 적용되어(train_class[0][0]) 이미지가 변형 되었다.
+#### train_class[0][0] 데이터를 시각화 할 수 있도록 시각화 라이브러리가 요구하는 numpy 타입의 올바른 이미지 데이터로 되돌리는 역함수를 만들어 시각화 해오는 것.
+#### 밑에 함수로 증강 이미지를 정규화 후 원래 형식으로 다시 돌립니다
+![image](https://user-images.githubusercontent.com/113089206/222115788-6d677dd3-b264-44e4-9e53-59522f1eb15a.png)
+#### 역함수 로직을 짠 이후 다시 이미지를 불러오게되면 이런 이미지를 불러올 수 있습니다
+![image](https://user-images.githubusercontent.com/113089206/222119332-77bc3c69-9b9b-4a3e-b683-67579494be8a.png)
 
 
 
