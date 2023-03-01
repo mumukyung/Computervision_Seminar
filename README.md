@@ -1,6 +1,17 @@
-# Computervision_Seminar
+# Computervision_Seminar(본 포스팅은 https://inhovation97.tistory.com/ 을 참고하여 만들었음을 알립니다)
 ## week2 과제
-[2주차과제 해설](https://github.com/mumukyung/Computervision_Seminar/blob/main/CV_seminar_week2_%EA%B3%BC%EC%A0%9C%ED%92%80%EC%9D%B4.ipynb)
+[week2 해설](https://github.com/mumukyung/Computervision_Seminar/blob/main/CV_seminar_week2_%EA%B3%BC%EC%A0%9C%ED%92%80%EC%9D%B4.ipynb)
 #### 2주차 과제에서는 glob함수를 해당 경로에 있는 파일들의 경로를 전부 리스트로 얻어올 수 있다는것을 배웠습니다 
-#### 
-[과제](https://github.com/mumukyung/Computervision_Seminar/blob/main/week3%EA%B3%BC%EC%A0%9C_%ED%95%9C%EB%8C%80%EA%B2%BD.ipynb)
+#### glob 함수를 이용하여 이미지들을 분배 해줄겁니다
+![image](https://user-images.githubusercontent.com/113089206/222088360-bdcbb37c-2cb8-43e1-bb2f-99b908519631.png)
+#### 순서는 이미지들의 상위경로를 만들어주고 train,valid,test별로 폴더를 만들어줍니다 이후 내부에 클래스 별로 또 폴더를 만들어줍니다
+#### 자 이제 폴더안에 파일들을 스플릿을 해주는 함수를 작성하고 함수를 돌리면 아래 사진처럼 분배가 잘 된것을 볼 수 있습니다
+![image](https://user-images.githubusercontent.com/113089206/222088962-d3d5bddc-f0e9-4bd4-b3f7-af7ef59a1012.png)
+#### 작성자는 week2과제에서 폴더까지 만드는것은 수행을 했으나 사진을 분배하는것에서 막혔으나 제출 이후 풀이를 보면서 하나하나씩
+#### 코딩후 조금씩 이해가 갔으나 다른 방법으로도 작성자가 시도를 해봐야겠다는것을 느꼈습니다.
+
+## week3 과제
+[week3 해설]()
+
+
+
