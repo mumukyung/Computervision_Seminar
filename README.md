@@ -31,5 +31,19 @@
 #### 역함수 로직을 짠 이후 다시 이미지를 불러오게되면 이런 이미지를 불러올 수 있습니다
 ![image](https://user-images.githubusercontent.com/113089206/222119332-77bc3c69-9b9b-4a3e-b683-67579494be8a.png)
 
+## week5 과제
+[week5 해설](https://github.com/mumukyung/Computervision_Seminar/blob/main/modeling.ipynb)
+#### 파이토치 모델링으로 모델을 구글드라이브에 저장후 이미지학습중 best_accuarcy를 뽑았습니다
+![image](https://user-images.githubusercontent.com/113089206/225244576-0a6ec8ce-9f38-4790-99e6-25602b2d6179.png)
+![image](https://user-images.githubusercontent.com/113089206/225244681-c08d5f36-1c18-4043-b639-7c0cb81800de.png)
+
+## week6 과제
+[week6 해설](https://github.com/mumukyung/Computervision_Seminar/blob/main/test_acc.ipynb)
+#### 모델을 100epoch를 돌려서 나온 가중치를 이용하여
+#### testloader를 생성후 최종성능을 평가하였습니다
+![image](https://user-images.githubusercontent.com/113089206/225245259-60aff171-20e9-4d9c-aa4d-ff2747d05ecc.png)
+![image](https://user-images.githubusercontent.com/113089206/225245958-838a7731-44c6-473e-9a0a-c2542fdaa9d7.png)
+
+
 
 
